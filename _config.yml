@@ -1,0 +1,22 @@
+title: "Your Name's Security Research"
+description: "A portfolio of projects, research papers, and penetration testing study notes."
+baseurl: ""
+url: "https://yourusername.github.io"
+author: "Your Name"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+nav:
+  - name: "Home"
+    href: "/"
+  - name: "About"
+    href: "/about"
+  - name: "Projects"
+    href: "/projects"
+  - name: "Research"
+    href: "/research"
+  - name: "Study Notes"
+    href: "/study-notes"
